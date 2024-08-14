@@ -1,2 +1,2 @@
 # shiny.app
-Work on development of custom shiny apps
+Custom Shiny app that provides basic functionality for the EDA and model testing
